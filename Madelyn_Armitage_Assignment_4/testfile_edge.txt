@@ -1,0 +1,16 @@
+EMAIL Peer,First peer email,01-01-2025
+EMAIL Boss,Board meeting prep,01-05-2025
+EMAIL Boss,Q1 numbers,01-10-2025
+EMAIL Subordinate,Need approval,01-02-2025
+NEXT
+NEXT
+READ
+READ
+NEXT
+COUNT
+READ
+READ
+NEXT
+READ
+COUNT
+NEXT
